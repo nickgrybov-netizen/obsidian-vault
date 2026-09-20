@@ -1,0 +1,4 @@
+interface:
+  display_name: "Samen een opgave begrijpen"
+  short_description: "Begrijp de aanpak met gerichte hulp"
+  default_prompt: "Gebruik $skill-study-tutor om mij te helpen met deze studiesessie."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Studienotities zoeken"
+  short_description: "Vind uitleg en eerdere pogingen in je vaults"
+  default_prompt: "Gebruik $skill-vault-search om mij te helpen met deze studiesessie."

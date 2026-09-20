@@ -1,0 +1,4 @@
+interface:
+  display_name: "Studieweek plannen"
+  short_description: "Plan haalbare oefenblokken rond je toetsen"
+  default_prompt: "Gebruik $skill-study-plan om mij te helpen met deze studiesessie."

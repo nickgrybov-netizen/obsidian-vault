@@ -1,0 +1,4 @@
+interface:
+  display_name: "Studiesessie bewaren"
+  short_description: "Bewaar je poging en maak verdergaan makkelijk"
+  default_prompt: "Gebruik $skill-study-save om mij te helpen met deze studiesessie."
