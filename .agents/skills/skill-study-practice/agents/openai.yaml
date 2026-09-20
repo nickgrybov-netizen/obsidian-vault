@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oefenen en overhoren"
+  short_description: "Oefen één vraag tegelijk en zie je voortgang"
+  default_prompt: "Gebruik $skill-study-practice om mij te helpen met deze studiesessie."

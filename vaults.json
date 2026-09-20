@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "home": "Studiecentrum",
+  "vaults": [
+    {
+      "id": "studiecentrum",
+      "path": "Studiecentrum",
+      "role": "home"
+    },
+    {
+      "id": "wiskunde-b",
+      "path": "Wiskunde-B",
+      "role": "subject"
+    },
+    {
+      "id": "scheikunde",
+      "path": "Scheikunde",
+      "role": "subject"
+    },
+    {
+      "id": "biologie",
+      "path": "Biologie",
+      "role": "subject"
+    }
+  ]
+}

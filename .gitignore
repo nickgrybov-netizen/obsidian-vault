@@ -1,1 +1,13 @@
 .DS_Store
+**/.obsidian/workspace.json
+**/.obsidian/workspaces.json
+**/.obsidian/cache/
+**/.obsidian/plugins/
+**/.smart-env/
+**/.smart-connections/
+**/.trash/
+.env
+.env.*
+!.env.example
+node_modules/
+.codex/config.toml

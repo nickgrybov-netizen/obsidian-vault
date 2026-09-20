@@ -1,0 +1,4 @@
+interface:
+  display_name: "Studiesessie starten"
+  short_description: "Verdergaan met je vorige studiesessie"
+  default_prompt: "Gebruik $skill-study-start om mij te helpen met deze studiesessie."

@@ -1,0 +1,10 @@
+# Voorbeeld: samenvoegen met bestaande ~/.codex/config.toml.
+# Vervang alle /Users/NAAM/... paden vóór gebruik.
+[mcp_servers.smart-connections]
+command = "npx"
+args = ["-y", "smart-connections-mcp@2.0.1"]
+startup_timeout_sec = 120
+tool_timeout_sec = 60
+
+[mcp_servers.smart-connections.env]
+SMART_VAULT_PATH = "/Users/NAAM/Projects/obsidian-vault/Studiecentrum,/Users/NAAM/Projects/obsidian-vault/Wiskunde-B,/Users/NAAM/Projects/obsidian-vault/Scheikunde,/Users/NAAM/Projects/obsidian-vault/Biologie"
