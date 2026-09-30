@@ -14,7 +14,9 @@ Ontwerp in Tinkercad een eigen fluit die op de 3D-printer kan worden geprint en 
 
 - Gekozen ontwerp: blokfluit-verlengstuk.
 - Door de leerling gemeld: vermoedelijk Bambu Lab P2S, standaard nozzle en PLA.
-- Eerst te meten: buitendiameter van het onderste blokfluituiteinde, insteekdiepte en gewenste verlenglengte.
+- Aansluiting volgens leerling: het nieuwe fluitstuk schuift in het bestaande mondstuk. Mondstuk binnenzijde 17 mm; aansluiting nieuwe stuk buitenzijde 16,5 mm en binnenzijde 13 mm.
+- Verder opgegeven: maat aan luchtuitgang 7,5 mm en diameter vingergaten 4 mm. Exacte betekenis van 7,5 mm nog te bevestigen.
+- Nog te bepalen: totale lengte, insteekdiepte, aantal en posities van vingergaten.
 
 ## Werklog en testresultaten
 
@@ -25,3 +27,4 @@ Nog geen werk of testresultaten vastgelegd.
 - [28-09-2026 — NLT-fluit met Tinkercad](../Sessies/2026-09/2026-09-28-1409-nlt-fluit-tinkercad.md)
 - [28-09-2026 — panfluit-ontwerp](../Sessies/2026-09/2026-09-28-1422-panfluit-ontwerp.md)
 - [30-09-2026 — blokfluit-verlengstuk](../Sessies/2026-09/2026-09-30-0921-blokfluit-verlengstuk.md)
+- [30-09-2026 — blokfluit-afmetingen](../Sessies/2026-09/2026-09-30-1050-blokfluit-afmetingen.md)
