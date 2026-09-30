@@ -8,12 +8,13 @@ gestart: 28-09-2026
 
 ## Opdracht en eisen
 
-Ontwerp in Tinkercad een eigen fluit die op de 3D-printer kan worden geprint en stuur het ontwerp naar Luuk. De opdracht noemt onder andere een neusfluit, panfluit, ocarina en blokfluit-verlengstuk als opties. Afmetingen, materiaal, printermodel en beoordelingsvoorwaarden zijn nog niet aangeleverd.
+Ontwerp in Tinkercad een eigen fluit die op de 3D-printer kan worden geprint en stuur het ontwerp naar Luuk. De opdracht noemt onder andere een neusfluit, panfluit, ocarina en blokfluit-verlengstuk als opties. Gekozen uitvoering: blokfluit-verlengstuk. Afmetingen en beoordelingsvoorwaarden zijn nog niet aangeleverd.
 
 ## Ontwerpkeuzes
 
-- Gekozen ontwerp: panfluit.
-- Eerst te verifiëren: printermodel, materiaal, maximale printmaat, nozzle-diameter, support-eis en gewenst bestandsformaat.
+- Gekozen ontwerp: blokfluit-verlengstuk.
+- Door de leerling gemeld: vermoedelijk Bambu Lab P2S, standaard nozzle en PLA.
+- Eerst te meten: buitendiameter van het onderste blokfluituiteinde, insteekdiepte en gewenste verlenglengte.
 
 ## Werklog en testresultaten
 
@@ -23,3 +24,4 @@ Nog geen werk of testresultaten vastgelegd.
 
 - [28-09-2026 — NLT-fluit met Tinkercad](../Sessies/2026-09/2026-09-28-1409-nlt-fluit-tinkercad.md)
 - [28-09-2026 — panfluit-ontwerp](../Sessies/2026-09/2026-09-28-1422-panfluit-ontwerp.md)
+- [30-09-2026 — blokfluit-verlengstuk](../Sessies/2026-09/2026-09-30-0921-blokfluit-verlengstuk.md)
