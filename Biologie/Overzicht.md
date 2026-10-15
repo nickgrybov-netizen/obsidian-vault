@@ -2,7 +2,7 @@
 
 - Niveau: VWO 5
 - Boek en editie: nog invullen
-- Huidig hoofdstuk: nog invullen
+- Huidig hoofdstuk: hoofdstuk 10 – Bloedsomloop (volgens leerling)
 - Leerdoelen en toetsstof: nog bevestigen met schoolbron
 - Toegestane hulpmiddelen: nog invullen
 
