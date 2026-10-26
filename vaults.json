@@ -26,6 +26,11 @@
       "id": "nlt",
       "path": "NLT",
       "role": "subject"
+    },
+    {
+      "id": "nederlands",
+      "path": "Nederlands",
+      "role": "subject"
     }
   ]
 }

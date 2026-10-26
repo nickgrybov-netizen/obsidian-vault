@@ -7,7 +7,7 @@ Nederlands studeren met Obsidian en Codex: starten, oefenen, opslaan, verdergaan
 3. Open een vak in Codex en zeg: “Ik wil verder met wiskunde B.”
 4. Rond af met: “Sla deze studiesessie op en noteer mijn volgende stap.”
 
-De root is één Git-repository met vier zelfstandige Obsidian-vaults: Studiecentrum, Wiskunde-B, Scheikunde en Biologie.
+De root is één Git-repository met zes zelfstandige Obsidian-vaults: Studiecentrum, Wiskunde-B, Scheikunde, Biologie, NLT en Nederlands.
 De oorspronkelijke Obsidian-voorkeuren staan nu in Studiecentrum. De oorspronkelijke welkomstnotitie is behouden.
 De zes gedeelde skills staan in [.agents/skills](.agents/skills).
 Boek, editie, hoofdstukken en toetsdata moeten nog door de leerling worden ingevuld. Scheikunde en biologie zijn startvakken; bevestig zijn vakkenpakket.

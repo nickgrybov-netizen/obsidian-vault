@@ -5,6 +5,8 @@ Kies één doel voor vandaag. Je hoeft niet alle notities bij te werken: vraag C
 - [Wiskunde B](obsidian://open?vault=Wiskunde-B&file=Overzicht)
 - [Scheikunde](obsidian://open?vault=Scheikunde&file=Overzicht)
 - [Biologie](obsidian://open?vault=Biologie&file=Overzicht)
+- [NLT](obsidian://open?vault=NLT&file=Overzicht)
+- [Nederlands](obsidian://open?vault=Nederlands&file=Overzicht)
 - [Deze week](Planning/Deze-week.md)
 - [Toetsen](Planning/Toetsen.md)
 - [Mijn leerprofiel](Leerprofiel.md)

@@ -1,7 +1,7 @@
 # Bestemmingen en links
 
 Deze repository hoort bij deze studieomgeving; gebruik geen paden uit andere projecten.
-De root is geen Obsidian-vault. Open alleen de vier mappen uit `vaults.json`.
+De root is geen Obsidian-vault. Open alleen de mappen uit `vaults.json`.
 
 - Vakinhoud: `<vak>/Onderwerpen/<onderwerp>.md`.
 - Eigen werk en feedback: `<vak>/Opgaven/<onderwerp>-<opgave>.md`.
