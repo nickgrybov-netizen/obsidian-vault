@@ -1,3 +1,3 @@
 # Opgaven
 
-Nog geen opgaven opgeslagen. Voeg links toe zodra er materiaal is.
+- [Boekrecensie over Harry Mulisch — alinea's en kopjes](Mulisch-recensie-alineas-en-kopjes.md)

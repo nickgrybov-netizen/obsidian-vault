@@ -1,3 +1,3 @@
 # Sessies
 
-Nog geen sessies opgeslagen. Voeg links toe zodra er materiaal is.
+- [27-10-2026 — Recensie over Harry Mulisch indelen](2026-10/2026-10-27-1448-mulisch-recensie-indelen.md)
