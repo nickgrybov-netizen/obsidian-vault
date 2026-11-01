@@ -12,6 +12,8 @@ De leerling leverde in de chat een doorlopende recensie aan over *De elementen*,
 
 De [oorspronkelijk aangeleverde tekst](../Bronnen/Mulisch-recensie-aangeleverd.md) staat apart. De onderstaande indeling en kopjes zijn door AI voorgesteld. De formuleringen en spelfouten uit de aangeleverde tekst zijn niet gecorrigeerd.
 
+Voor de vervolgopdracht: [de recensie met de vaste onderdelen in kleur](Mulisch-recensie-onderdelen-gemarkeerd.md).
+
 ## Indeling met kopjes (AI-voorstel)
 
 ### Mulisch’ recente werk
