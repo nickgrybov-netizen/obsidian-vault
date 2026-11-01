@@ -6,7 +6,7 @@ onderwerp: vaste onderdelen van een recensie
 
 # Vaste onderdelen in de recensie over Harry Mulisch
 
-Dit is een **AI-voorstel** bij de [recensie met alinea's en kopjes](Mulisch-recensie-alineas-en-kopjes.md). De schoolopdracht in de afbeelding vraagt om de volgende markeringen:
+Dit is een **AI-voorstel** bij de [recensie met alinea's en kopjes](Mulisch-recensie-alineas-en-kopjes.md). De [aangeleverde opdracht](../Bijlagen/2026-11-01-recensie-onderdelen-opdracht.png) vraagt om de volgende markeringen:
 
 - <mark style="background-color: #fff176; color: #111;">Geel</mark>: samenvatting van de inhoud.
 - <mark style="background-color: #e879f9; color: #111;">Paars</mark>: bespreking of vergelijking van Mulisch' werk.
