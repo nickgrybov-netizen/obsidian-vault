@@ -36,6 +36,11 @@
       "id": "aardrijkskunde",
       "path": "Aardrijkskunde",
       "role": "subject"
+    },
+    {
+      "id": "ckv",
+      "path": "CKV",
+      "role": "subject"
     }
   ]
 }
