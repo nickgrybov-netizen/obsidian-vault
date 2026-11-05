@@ -33,6 +33,6 @@ Open Terminal in de projectmap en voer `npm install` uit om de pakketten te inst
 - Welke twee kunstwerken en filosofen worden gekozen?
 - Wat zijn de opdrachtvoorwaarden en welke bronnen zijn geschikt voor de perspectieven?
 - Welke afbeeldingen mogen gebruikt worden en welke bronvermelding is nodig?
-- Hoe moet de uiteindelijke website toegankelijk worden voor de docenten? De eerste implementatie wordt privé gepubliceerd; toegang voor docenten is daarmee nog niet geregeld.
+- Hoe moet de uiteindelijke website toegankelijk worden voor de docenten? De [eerste versie](https://ckv-kunst-en-filosofie.lucky-boar-3385.chatgpt.site) is privé gepubliceerd; toegang voor docenten is daarmee nog niet geregeld.
 
 Zie ook het [proceslog](Proceslog-webapp.md).
