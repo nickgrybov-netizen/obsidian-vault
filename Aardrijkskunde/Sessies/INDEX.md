@@ -1,3 +1,3 @@
 # Sessies
 
-Nog geen sessies opgeslagen. Voeg links toe zodra er materiaal is.
+- [06-11-2026 — Nederland en Indonesië in het wereldsysteem](2026-11/2026-11-06-0147-nederland-indonesie.md)
