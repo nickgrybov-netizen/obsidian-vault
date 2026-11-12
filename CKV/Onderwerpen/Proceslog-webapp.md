@@ -18,3 +18,7 @@ Hier houden we bij welke stappen echt zijn gezet, wat keuzes betekenen en wat no
 - Samen de standpunten zorgvuldig uitwerken en duidelijk maken of ze interpretaties zijn.
 - Afbeeldingen en bronvermelding toevoegen en de app verder controleren.
 - Een toegankelijke link voor de docent regelen wanneer de inhoud klaar is.
+
+## 12-11-2026 — Debatkeuzes gekozen
+
+De leerling koos drie onderwerpen voor de discussie tussen Kuki en Kant: **Is eenvoud mooier dan perfectie?**, **Kan rust samengaan met beweging?** en **Is kunst om te bekijken of om te beleven?**. Elk onderwerp heeft nu een eigen voorbeeldgesprek over zowel het Japanse theeritueel als de Discobolus. De bezoeker kiest dus eerst het kunstwerk en het onderwerp; de bijbehorende argumenten verschijnen naast elkaar. De dialogen zijn interpretaties voor de opdracht, geen historische citaten.
