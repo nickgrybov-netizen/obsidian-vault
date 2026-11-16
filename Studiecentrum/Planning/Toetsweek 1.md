@@ -1,4 +1,4 @@
-# Voorlopige planning toetsweek
+# Toetsweek 1
 
 Periode: 16 november–3 december 2026
 Beschikbare tijd: leerling wil dagelijks zoveel mogelijk studeren. Voorstel: op lesdagen ongeveer 2 uur in blokken, op vrije toetsweekdagen ongeveer 3–4 uur in blokken met pauzes. Woensdag 18 november pas thuis vanaf 18:00; zondag 22 november werken van 17:00–22:00.
