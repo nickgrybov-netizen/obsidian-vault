@@ -7,6 +7,5 @@ Dit zijn links naar de oorspronkelijke sessienotities in de vakmappen. De notiti
 - [Nederlands, 27 oktober 2026 — Mulisch-recensie indelen](obsidian://open?vault=Nederlands&file=Sessies/2026-10/2026-10-27-1448-mulisch-recensie-indelen.md)
 - [Nederlands, 1 november 2026 — recensieonderdelen herkennen](obsidian://open?vault=Nederlands&file=Sessies/2026-11/2026-11-01-1946-onderdelen-mulisch-recensie.md)
 - [CKV, 5 november 2026 — webapp opzetten](obsidian://open?vault=CKV&file=Sessies/2026-11/2026-11-05-1828-project-opzetten.md)
-- [Aardrijkskunde, 6 november 2026 — Nederland en Indonesië](obsidian://open?vault=Aardrijkskunde&file=Sessies/2026-11/2026-11-06-0147-nederland-indonesie.md)
 
 In de Scheikunde- en Engels-vakmappen stond nog geen eerdere studiesessie opgeslagen. De inhoud van het huidige toetsweekgesprek staat in de [onderwerpen](../Onderwerpen/INDEX.md).

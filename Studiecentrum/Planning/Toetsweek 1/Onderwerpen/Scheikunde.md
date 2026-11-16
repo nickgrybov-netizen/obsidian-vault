@@ -4,6 +4,6 @@
 
 De leerling gaf **zuren en basen** en **redoxchemie** op als toetsstof.
 
-## Eerdere gesprekken in de vakvault
+## Wat staat er al opgeslagen?
 
-In de Scheikunde-vault staat nog geen studiesessie of onderwerpnotitie opgeslagen. Het onderwerp uit het huidige toetsweekgesprek is hierboven vastgelegd; er is geen oudere scheikunde-uitleg om naar te linken.
+Er staat nog geen eerdere uitleg of studiesessie over scheikunde opgeslagen. De toetsstof is wel opgegeven. Inhoudelijke aantekeningen komen hier wanneer we tijdens de voorbereiding zuren en basen en redoxchemie gaan leren.
