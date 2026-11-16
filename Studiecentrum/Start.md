@@ -9,7 +9,10 @@ Kies één doel voor vandaag. Je hoeft niet alle notities bij te werken: vraag C
 - [Nederlands](obsidian://open?vault=Nederlands&file=Overzicht)
 - [Aardrijkskunde](obsidian://open?vault=Aardrijkskunde&file=Overzicht)
 - [CKV](obsidian://open?vault=CKV&file=Overzicht)
-- [Toetsweken](Planning/Toetsen.md)
+- [Toetsweek 1](Toetsweek%201/Overzicht.md)
+- [Toetsweek 2](Toetsweek%202/Overzicht.md)
+- [Toetsweek 3](Toetsweek%203/Overzicht.md)
+- [Toetswekenoverzicht](Planning/Toetsen.md)
 - [Mijn leerprofiel](Leerprofiel.md)
 - [Handige prompts](prompt-vault/INDEX.md)
 
