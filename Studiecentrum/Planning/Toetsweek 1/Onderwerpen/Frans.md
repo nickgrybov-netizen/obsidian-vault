@@ -1,4 +1,10 @@
-# Franse zinnen oefenen
+# Frans
+
+## Toetsweek 1
+
+De leerling gaf woordjes en grammatica op als toetsstof en wil Frans vanaf 26 november oefenen, één week voor de toets op 3 december.
+
+## Franse zinnen oefenen
 
 ## Wat de leerling heeft verteld
 

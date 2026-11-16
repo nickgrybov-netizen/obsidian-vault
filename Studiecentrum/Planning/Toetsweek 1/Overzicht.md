@@ -2,28 +2,23 @@
 
 Periode: 26 november–3 december 2026. De voorbereiding begint op 16 november.
 
-## Bestanden
+Dit is de complete toetsweekmap. Oorspronkelijke uitleg en pogingen blijven in hun vakvaults; de onderwerpnotities hieronder vatten ze samen en linken naar de bron.
 
-- [Dagplanning](Planning.md)
-- [Toetsdata en toetsstof](Toetsen.md)
-- [Franse zinnen oefenen](Frans-zinnen-leren.md)
+## Naar een onderdeel
 
-## Besproken vakken
+- [Verdergaan](Verder.md)
+- [Dagplanning](Planning/Toetsweek%201.md)
+- [Onderwerpen en eerdere vakgesprekken](Onderwerpen/INDEX.md)
+- [Opgaven en pogingen](Opgaven/INDEX.md)
+- [Toetsdata en bronnen](Bronnen/INDEX.md)
+- [Sessies uit de vakmappen](Sessies/INDEX.md)
+- [Foutenlog](Foutenlog.md)
+- [Templates](Templates/INDEX.md)
 
-- Wiskunde B: hoofdstuk 6, 7 en 8
-- Biologie: hoofdstuk 10, 11 en 12
-- Scheikunde: zuren en basen, redoxchemie
-- Aardrijkskunde: hoofdstuk 1 en 2
-- Frans: woordjes en grammatica; vanaf 26 november voorbereid
-- Nederlands: argumentatietheorie; de exacte omvang is nog onzeker
-- Engels: toets over *Lord of the Flies*. De leerling wil hiervoor geen studieblokken in de planning en geeft aan vooral samenvattingen te kunnen lezen.
+## Toetsweek 1 in het kort
 
-## Afspraken
+De opgegeven toetsstof is wiskunde B hoofdstuk 6–8, biologie hoofdstuk 10–12, scheikunde zuren en basen plus redoxchemie, aardrijkskunde hoofdstuk 1–2, Frans woordjes en grammatica, en Nederlands argumentatietheorie (omvang nog onzeker). Engels gaat over *Lord of the Flies*; op verzoek staan daar geen studieblokken voor.
 
-- Woensdag 18 november is de leerling pas vanaf 18:00 thuis.
-- Zondag 22 november werkt de leerling van 17:00 tot 22:00.
-- De leerling wil dagelijks zoveel mogelijk studeren.
-- Wiskunde, biologie en scheikunde voelen het lastigst en vragen volgens de leerling het meeste leerwerk.
-- NLT hoort niet bij deze toetsweek en staat daarom niet in het archief.
+De leerling gaf aan wiskunde, biologie en scheikunde het lastigst te vinden en daar het meeste leerwerk voor nodig te hebben. De leerling wil dagelijks zoveel mogelijk studeren. Woensdag 18 november is de leerling pas vanaf 18:00 thuis; zondag 22 november is er werk van 17:00–22:00. De planning voor zondag 29 november houdt rekening met werk vóór 17:00 als die dienst dan ook geldt.
 
-De Franse aanpak op de gekoppelde notitie is een AI-voorstel dat de leerling nog kan uitproberen; het is geen vastgestelde leerprestatie.
+NLT hoort niet bij de toetsweek en staat buiten het archief.

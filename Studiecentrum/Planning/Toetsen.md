@@ -1,7 +1,7 @@
 # Toetsweken
 
-Per toetsweek staat in de eigen map het overzicht, de planning en de toetsstof. Voeg onderwerpen pas toe zodra ze zijn besproken of bevestigd. NLT valt buiten deze toetsweekarchieven.
+Elke toetsweek heeft een eigen mini-vault met overzicht, onderwerpen, planning, bronnen, sessies, opgaven, foutenlog en templates. Bewaar nieuwe gesprekken in de actieve toetsweekmap. Na toetsweek 1 wordt toetsweek 2 de actieve map en daarna toetsweek 3. NLT valt buiten deze archieven.
 
-- [Toetsweek 1](Toetsweek%201/Overzicht.md) — planning en toetsstof ingevuld
-- [Toetsweek 2](Toetsweek%202/Overzicht.md) — map klaar; data en stof nog niet besproken
-- [Toetsweek 3](Toetsweek%203/Overzicht.md) — map klaar; data en stof nog niet besproken
+- [Toetsweek 1](Toetsweek%201/Overzicht.md) — planning, leerstof en eerdere vakgesprekken
+- [Toetsweek 2](Toetsweek%202/Overzicht.md) — basisstructuur klaar; inhoud volgt na toetsweek 1
+- [Toetsweek 3](Toetsweek%203/Overzicht.md) — basisstructuur klaar; inhoud volgt na toetsweek 2

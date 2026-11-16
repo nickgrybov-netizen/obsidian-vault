@@ -3,6 +3,7 @@
 Periode: 16 november–3 december 2026
 Leerdoelen per vak: door jou opgegeven.
 Prioriteit: extra oefentijd voor wiskunde, biologie en scheikunde, omdat jij die het lastigst vindt en ze veel leerwerk vragen. Frans begint precies een week voor de toets. Engels staat niet in de studieblokken.
+Toetsdata en opgegeven leerstof: [bronnenoverzicht](../Bronnen/INDEX.md).
 
 ## Maandag 16 november
 

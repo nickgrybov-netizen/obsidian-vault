@@ -1,9 +1,16 @@
 # Toetsweek 2
 
-Deze map staat klaar voor de toetsen en leerstof die na toetsweek 1 worden besproken.
+Deze mini-vault is gereserveerd voor toetsweek 2. Voeg hier alleen toetsdata en leerstof toe die de leerling na toetsweek 1 bespreekt of bevestigt.
 
-- Toetsdata: nog niet opgegeven
-- Toetsstof: nog niet opgegeven
-- Notities en planning: worden hier toegevoegd zodra ze bekend zijn
+## Aan het werk
 
-NLT wordt niet in de toetsweekmappen opgenomen.
+- [Verdergaan](Verder.md)
+- [Planning](Planning/INDEX.md)
+- [Onderwerpen](Onderwerpen/INDEX.md)
+- [Opgaven](Opgaven/INDEX.md)
+- [Bronnen](Bronnen/INDEX.md)
+- [Sessies](Sessies/INDEX.md)
+- [Foutenlog](Foutenlog.md)
+- [Templates](Templates/INDEX.md)
+
+Toetsdata, toetsstof en beschikbare tijd zijn nog niet opgegeven. NLT wordt niet in de toetsweekmappen opgenomen.
